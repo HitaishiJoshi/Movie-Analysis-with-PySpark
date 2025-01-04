@@ -1,0 +1,150 @@
+id,Role,movie_title,color_type,duration,gross,genres,language,country,content_rating,budget,title_year,movie_facebook_likes
+1841,Movie,Avatar,Color,178,760505847,Action|Adventure|Fantasy|Sci-Fi,English,USA,PG-13,237000000,2009,33000
+3268,Movie,Jurassic World,Color,124,652177271,Action|Adventure|Sci-Fi|Thriller,English,USA,PG-13,150000000,2015,150000
+2558,Movie,The Avengers,Color,173,623279547,Action|Adventure|Sci-Fi,English,USA,PG-13,220000000,2012,123000
+2598,Movie,The Avengers,Color,173,623279547,Action|Adventure|Sci-Fi,English,USA,PG-13,220000000,2012,123000
+1620,Movie,The Dark Knight,Color,152,533316061,Action|Crime|Drama|Thriller,English,USA,PG-13,185000000,2008,37000
+3267,Movie,Avengers: Age of Ultron,Color,141,458991599,Action|Adventure|Sci-Fi,English,USA,PG-13,250000000,2015,118000
+2556,Movie,The Dark Knight Rises,Color,164,448130642,Action|Thriller,English,USA,PG-13,250000000,2012,164000
+766,Movie,Shrek 2,Color,93,436471036,Adventure|Animation|Comedy|Family|Fantasy|Romance,English,USA,PG,150000000,2004,0
+2794,Movie,The Hunger Games: Catching Fire,Color,146,424645577,Adventure|Sci-Fi|Thriller,English,USA,PG-13,130000000,2013,82000
+1174,Movie,Pirates of the Caribbean: Dead Man's Chest,Color,151,423032628,Action|Adventure|Fantasy,English,USA,PG-13,225000000,2006,5000
+2105,Movie,Toy Story 3,Color,103,414984497,Adventure|Animation|Comedy|Family|Fantasy,English,USA,G,200000000,2010,30000
+2780,Movie,Iron Man 3,Color,195,408992272,Action|Adventure|Sci-Fi,English,USA,PG-13,200000000,2013,95000
+2585,Movie,The Hunger Games,Color,142,407999255,Adventure|Drama|Sci-Fi|Thriller,English,USA,PG-13,78000000,2012,140000
+3493,Movie,Captain America: Civil War,Color,147,407197282,Action|Adventure|Sci-Fi,English,USA,PG-13,250000000,2016,72000
+362,Movie,Spider-Man,Color,121,403706375,Action|Adventure|Fantasy|Romance,English,USA,PG-13,139000000,2002,5000
+1843,Movie,Transformers: Revenge of the Fallen,Color,150,402076689,Action|Adventure|Sci-Fi,English,USA,PG-13,200000000,2009,0
+2789,Movie,Frozen,Color,102,400736600,Adventure|Animation|Comedy|Family|Fantasy|Musical,English,USA,PG,150000000,2013,58000
+580,Movie,Finding Nemo,Color,100,380838870,Adventure|Animation|Comedy|Family,English,USA,G,94000000,2003,11000
+961,Movie,Star Wars: Episode III - Revenge of the Sith,Color,140,380262555,Action|Adventure|Fantasy|Sci-Fi,English,USA,PG-13,113000000,2005,10000
+581,Movie,The Lord of the Rings: The Return of the King,Color,192,377019252,Action|Adventure|Drama|Fantasy,English,USA,PG-13,94000000,2003,16000
+738,Movie,Spider-Man 2,Color,135,373377893,Action|Adventure|Fantasy|Romance,English,USA,PG-13,200000000,2004,0
+2813,Movie,Despicable Me 2,Color,98,368049635,Animation|Comedy|Family|Sci-Fi,English,USA,PG,76000000,2013,56000
+3520,Movie,Deadpool,Color,108,363024263,Action|Adventure|Comedy|Romance|Sci-Fi,English,USA,R,58000000,2016,117000
+3498,Movie,The Jungle Book,Color,106,362645141,Adventure|Drama|Family|Fantasy,English,UK,PG,175000000,2016,65000
+3537,Movie,The Jungle Book,Color,106,362645141,Adventure|Drama|Family|Fantasy,English,UK,PG,175000000,2016,65000
+3272,Movie,Inside Out,Color,95,356454367,Adventure|Animation|Comedy|Drama|Family|Fantasy,English,USA,PG,175000000,2015,118000
+2334,Movie,Transformers: Dark of the Moon,Color,154,352358779,Action|Adventure|Sci-Fi,English,USA,PG-13,195000000,2011,46000
+3057,Movie,American Sniper,Color,133,350123553,Action|Biography|Drama|History|Thriller|War,English,USA,R,58800000,2014,112000
+3269,Movie,Furious 7,Color,140,350034110,Action|Crime|Thriller,English,USA,PG-13,190000000,2015,94000
+director_id,Role,director_name,,,,,,,,,,director_facebook_likes
+1,Director,James Cameron,,,,,,,,,,0
+2,Director,Colin Trevorrow,,,,,,,,,,365
+3,Director,Joss Whedon,,,,,,,,,,0
+4,Director,Joss Whedon,,,,,,,,,,0
+5,Director,Christopher Nolan,,,,,,,,,,22000
+6,Director,Joss Whedon,,,,,,,,,,0
+7,Director,Christopher Nolan,,,,,,,,,,22000
+8,Director,Andrew Adamson,,,,,,,,,,80
+9,Director,Francis Lawrence,,,,,,,,,,508
+10,Director,Gore Verbinski,,,,,,,,,,563
+11,Director,Lee Unkrich,,,,,,,,,,125
+12,Director,Shane Black,,,,,,,,,,1000
+13,Director,Gary Ross,,,,,,,,,,378
+14,Director,Anthony Russo,,,,,,,,,,94
+15,Director,Sam Raimi,,,,,,,,,,0
+16,Director,Michael Bay,,,,,,,,,,0
+17,Director,Chris Buck,,,,,,,,,,69
+18,Director,Andrew Stanton,,,,,,,,,,475
+19,Director,George Lucas,,,,,,,,,,0
+20,Director,Peter Jackson,,,,,,,,,,0
+21,Director,Sam Raimi,,,,,,,,,,0
+22,Director,Pierre Coffin,,,,,,,,,,275
+23,Director,Tim Miller,,,,,,,,,,84
+24,Director,Jon Favreau,,,,,,,,,,4000
+25,Director,Jon Favreau,,,,,,,,,,4000
+26,Director,Pete Docter,,,,,,,,,,0
+27,Director,Michael Bay,,,,,,,,,,0
+28,Director,Clint Eastwood,,,,,,,,,,16000
+29,Director,James Wan,,,,,,,,,,0
+actor1_id,Role,actor_1_name,,,,,,,,,,actor_1_facebook_likes
+30,Actor,CCH Pounder,,,,,,,,,,1000
+31,Actor,Bryce Dallas Howard,,,,,,,,,,3000
+32,Actor,Chris Hemsworth,,,,,,,,,,26000
+33,Actor,Chris Hemsworth,,,,,,,,,,26000
+34,Actor,Christian Bale,,,,,,,,,,23000
+35,Actor,Chris Hemsworth,,,,,,,,,,26000
+36,Actor,Tom Hardy,,,,,,,,,,27000
+37,Actor,Rupert Everett,,,,,,,,,,692
+38,Actor,Jennifer Lawrence,,,,,,,,,,34000
+39,Actor,Johnny Depp,,,,,,,,,,40000
+40,Actor,Tom Hanks,,,,,,,,,,15000
+41,Actor,Robert Downey Jr.,,,,,,,,,,21000
+42,Actor,Jennifer Lawrence,,,,,,,,,,34000
+43,Actor,Robert Downey Jr.,,,,,,,,,,21000
+44,Actor,J.K. Simmons,,,,,,,,,,24000
+45,Actor,Glenn Morshower,,,,,,,,,,894
+46,Actor,Josh Gad,,,,,,,,,,1000
+47,Actor,Alexander Gould,,,,,,,,,,1000
+48,Actor,Natalie Portman,,,,,,,,,,20000
+49,Actor,Orlando Bloom,,,,,,,,,,5000
+50,Actor,J.K. Simmons,,,,,,,,,,24000
+51,Actor,Steve Carell,,,,,,,,,,7000
+52,Actor,Ryan Reynolds,,,,,,,,,,16000
+53,Actor,Scarlett Johansson,,,,,,,,,,19000
+54,Actor,Scarlett Johansson,,,,,,,,,,19000
+55,Actor,Amy Poehler,,,,,,,,,,1000
+56,Actor,Glenn Morshower,,,,,,,,,,894
+57,Actor,Bradley Cooper,,,,,,,,,,14000
+58,Actor,Jason Statham,,,,,,,,,,26000
+actor2_id,Role,actor_2_name,,,,,,,,,,actor_2_facebook_likes
+31,Actor,Joel David Moore,,,,,,,,,,936
+32,Actor,Judy Greer,,,,,,,,,,2000
+33,Actor,Robert Downey Jr.,,,,,,,,,,21000
+34,Actor,Robert Downey Jr.,,,,,,,,,,21000
+35,Actor,Heath Ledger,,,,,,,,,,13000
+36,Actor,Robert Downey Jr.,,,,,,,,,,21000
+37,Actor,Christian Bale,,,,,,,,,,23000
+38,Actor,Jennifer Saunders,,,,,,,,,,309
+39,Actor,Josh Hutcherson,,,,,,,,,,14000
+40,Actor,Orlando Bloom,,,,,,,,,,5000
+41,Actor,John Ratzenberger,,,,,,,,,,1000
+42,Actor,Jon Favreau,,,,,,,,,,4000
+43,Actor,Josh Hutcherson,,,,,,,,,,14000
+44,Actor,Scarlett Johansson,,,,,,,,,,19000
+45,Actor,James Franco,,,,,,,,,,11000
+46,Actor,Kevin Dunn,,,,,,,,,,581
+47,Actor,Maurice LaMarche,,,,,,,,,,523
+48,Actor,Stephen Root,,,,,,,,,,939
+49,Actor,Christopher Lee,,,,,,,,,,16000
+50,Actor,Billy Boyd,,,,,,,,,,857
+51,Actor,James Franco,,,,,,,,,,11000
+52,Actor,Miranda Cosgrove,,,,,,,,,,2000
+53,Actor,Ed Skrein,,,,,,,,,,805
+54,Actor,Bill Murray,,,,,,,,,,13000
+55,Actor,Bill Murray,,,,,,,,,,13000
+56,Actor,Mindy Kaling,,,,,,,,,,767
+57,Actor,Lester Speight,,,,,,,,,,829
+58,Actor,Leonard Roberts,,,,,,,,,,962
+59,Actor,Paul Walker,,,,,,,,,,23000
+actor3_id,Role,actor_3_name,,,,,,,,,,actor_3_facebook_likes
+60,Actor,Wes Studi,,,,,,,,,,855
+61,Actor,Omar Sy,,,,,,,,,,1000
+62,Actor,Scarlett Johansson,,,,,,,,,,19000
+63,Actor,Scarlett Johansson,,,,,,,,,,19000
+64,Actor,Morgan Freeman,,,,,,,,,,11000
+65,Actor,Scarlett Johansson,,,,,,,,,,19000
+66,Actor,Joseph Gordon-Levitt,,,,,,,,,,23000
+67,Actor,Conrad Vernon,,,,,,,,,,48
+68,Actor,Sandra Ellis Lafferty,,,,,,,,,,523
+69,Actor,Jack Davenport,,,,,,,,,,1000
+70,Actor,Don Rickles,,,,,,,,,,721
+71,Actor,Don Cheadle,,,,,,,,,,3000
+72,Actor,Anthony Reynolds,,,,,,,,,,575
+73,Actor,Chris Evans,,,,,,,,,,11000
+74,Actor,Kirsten Dunst,,,,,,,,,,4000
+75,Actor,Ramon Rodriguez,,,,,,,,,,464
+76,Actor,Livvy Stubenrauch,,,,,,,,,,490
+77,Actor,Brad Garrett,,,,,,,,,,799
+78,Actor,Hayden Christensen,,,,,,,,,,4000
+79,Actor,Bernard Hill,,,,,,,,,,416
+80,Actor,Kirsten Dunst,,,,,,,,,,4000
+81,Actor,Steve Coogan,,,,,,,,,,1000
+82,Actor,Stefan Kapicic,,,,,,,,,,361
+83,Actor,Garry Shandling,,,,,,,,,,591
+84,Actor,Garry Shandling,,,,,,,,,,591
+85,Actor,Phyllis Smith,,,,,,,,,,384
+86,Actor,Kevin Dunn,,,,,,,,,,581
+87,Actor,Keir O'Donnell,,,,,,,,,,318
+88,Actor,Vin Diesel,,,,,,,,,,14000
